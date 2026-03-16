@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minepenguinSMP.aternos.me",
+    "ip": "inepenguinSMP.aternos.me",
     "port": 24545,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
